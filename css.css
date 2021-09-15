@@ -1,0 +1,49 @@
+body{
+
+	background-color: black;}
+
+.banner{
+
+position: center;
+
+width: 540px;
+
+height: 150px;
+
+}
+
+.der{
+
+color: white;
+
+border: solid;
+
+padding: 25px;
+
+border-radius: 100px;
+
+color: red;
+
+font-size: 50px;
+
+}
+
+.wa{
+
+font-family: Bona Nova;
+
+font-style: serif;
+
+color: white;
+
+font-size: 50px;
+
+}
+
+.bann{
+
+border: solid 5px white;
+
+border-radius: 50px;
+
+}
